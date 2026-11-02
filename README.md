@@ -52,7 +52,7 @@ I am a Cybersecurity student at Asia Pacific University (APU) with a strong pass
       <h3 align="center">🛡️ Wazuh SOC HomeLab</h3>
       <p align="center">Built a functional SOC lab using VirtualBox (Ubuntu, Kali, Rocky). Simulated SSH brute-force attacks and detected them via Wazuh SIEM dashboard.</p>
       <p align="center">
-        <a href="https://github.com/tanmay1802-art/Wazuh-SOC-HomeLab"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://github.com/tanmay1802-art/SOC-Home-Lab-Wazuh"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
       </p>
     </td>
     <td width="50%">
