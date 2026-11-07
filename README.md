@@ -106,7 +106,4 @@ I am a Cybersecurity student at Asia Pacific University (APU) with a strong pass
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanmay1802-art&theme=tokyonight&hide_border=true&background=0D1117" alt="Tanmay's GitHub Streak" />
-</p>
+
