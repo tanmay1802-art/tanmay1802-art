@@ -95,6 +95,38 @@ I am a Cybersecurity student at Asia Pacific University (APU) with a strong pass
       </p>
     </td>
   </tr>
+    <tr>
+    <td width="50%">
+      <h3 align="center">📡 Cisco Packet Tracer Labs</h3>
+      <p align="center">10 hands-on CCNA labs: SSH, VLANs, OSPF, HSRP, port security, WLC, plus a GRE VPN and ACL troubleshooting write-up.</p>
+      <p align="center">
+        <a href="https://github.com/tanmay1802-art/Cisco-Packet-Tracer-Labs"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🕸️ PortSwigger Academy Writeups</h3>
+      <p align="center">Web security lab writeups using Burp Suite: path traversal, access control and more.</p>
+      <p align="center">
+        <a href="https://github.com/tanmay1802-art/PortSwigger-Academy-Writeups"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚩 CTF Writeups</h3>
+      <p align="center">Solutions for CTF challenges across Crypto, Web, Forensics, Misc and Reverse categories.</p>
+      <p align="center">
+        <a href="https://github.com/tanmay1802-art/CTF-Writeups"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧅 Tor-Vpn</h3>
+      <p align="center">System-wide Tor transparent proxy for Linux in one Bash script: kill switch, IPv6 and DNS leak protection, and identity rotation.</p>
+      <p align="center">
+        <a href="https://github.com/tanmay1802-art/Tor-Vpn"><img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
